@@ -1,0 +1,19 @@
+Date,Type,Transaction ID,Received Quantity,Received Currency,Received Cost Basis (USD),Received Wallet,Received Address,Received Tag,Received Comment,Sent Quantity,Sent Currency,Sent Cost Basis (USD),Sent Wallet,Sent Address,Sent Tag,Sent Comment,Fee Amount,Fee Currency,Realized Return (USD),Ignored
+05/19/2022 19:38:00,Receive,22f120c0597434b5bf8cb0028a87cde49744707e5bd43b7453d936c3d1899296,0.01162236,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Payment,,,,,,,,,,,,Ignored
+05/19/2022 19:38:00,Receive,22f120c0597434b5bf8cb0028a87cde49744707e5bd43b7453d936c3d1899296,0.01162236,BTC,351.76,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Mined,,,,,,,,,,,,
+05/20/2022 12:02:00,Receive,e845fe6c8990543dfda508863e805f1cd7786486e69eaf0bba0ed493401e93ae,0.01119937,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,,,,,,,,,,,,,Ignored
+05/20/2022 12:02:00,Receive,e845fe6c8990543dfda508863e805f1cd7786486e69eaf0bba0ed493401e93ae,0.01119937,BTC,326.78,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Mined,,,,,,,,,,,,
+05/30/2022 14:30:00,Receive,ee5d03cbbbb4d63de6bba273dcee82b973b424a9f74c1064cb4a580f310cbd93,0.01144851,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,,,,,,,,,,,,,Ignored
+05/30/2022 14:30:00,Receive,ee5d03cbbbb4d63de6bba273dcee82b973b424a9f74c1064cb4a580f310cbd93,0.00099939,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Mined,,,,,,,,,,,,Ignored
+05/30/2022 14:30:00,Receive,,0.00000000,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Mined,,,,,,,,,0.00000420,BTC,,Ignored
+05/30/2022 14:30:00,Receive,ee5d03cbbbb4d63de6bba273dcee82b973b424a9f74c1064cb4a580f310cbd93,0.01144851,BTC,363.14,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Mined,,,,,,,,,,,,
+05/30/2022 14:30:00,Receive,,,,,,,,,0.00099939,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Mined,,,,,Ignored
+08/03/2023 21:17:01,Trade,,0.00000000,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,,,,,,,,,,0.01144851,BTC,,Ignored
+08/03/2023 21:17:01,Trade,,0.01144851,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,,,0.01144851,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,,,,,,Ignored
+08/03/2023 21:17:01,Trade,,,,,,,,,0.00000000,NBTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,,,0.01144851,BTC,,Ignored
+08/04/2023 20:11:50,Trade,,0.00000000,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Payment,,,,,,,,,0.01144851,BTC,,Ignored
+08/04/2023 20:11:50,Trade,,0.00003879,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Payment,,0.00003879,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Payment,,,,,Ignored
+08/04/2023 20:11:50,Trade,,,,,,,,,0.00000000,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Payment,,0.01144851,BTC,,Ignored
+08/04/2023 20:11:50,Trade,,,,,,,,,0.00000100,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,Payment,,,,,Ignored
+08/12/2023 09:54:00,Trade,,134.00000000,USDC,,Kraken - USDC,,,,0.01144851,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,,,,,,Ignored
+08/12/2023 09:54:00,Trade,,,,,,,,,0.00000000,BTC,,Blockchain  - BTC,bc1qhuuyw3q7s0a4y06k6unjz2wl98waexmxj0ahhq,,,0.00100000,BTC,,Ignored
